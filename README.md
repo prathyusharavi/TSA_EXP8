@@ -1,7 +1,7 @@
 # Ex.No: 08     MOVINTG AVERAGE MODEL AND EXPONENTIAL SMOOTHING
 
 ```
-Devloped by: yenyganti prathyusha
+Devloped by: yenuganti prathyusha
 Register Number: 212223240187
 Date: 23-05-2025
 ```
